@@ -4,9 +4,15 @@
 ```
 hook-generator/
 ├── hook-generator.py
-├── base-image
+├── base-image/
 │   └── image.png    (Name doesn't matter)
-└── output-videos
+└── output-videos/
 
 drop each component in designated folder
+```
+
+.env
+```
+KLING_ACCESS_KEY = ""
+KLING_SECRET_KEY = ""
 ```
